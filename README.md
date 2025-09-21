@@ -178,7 +178,7 @@
 <div align="center">
   
 [![Gmail Badge](https://img.shields.io/badge/-mohamedhossam.qc@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mohamedhossam.qc@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-mohamed-hossam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/muhammad--hossam/))
 
 
 
