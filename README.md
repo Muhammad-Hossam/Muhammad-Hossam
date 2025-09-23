@@ -94,9 +94,8 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Hossam&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-</div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=Muhammad-Hossam&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/> </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Hossam&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="800"/>
